@@ -26,7 +26,8 @@ const MealList = props => {
 							isFav: isFavorite ? true : false
 						}
 					});
-				}} />);
+				}} />
+		);
 	};
 
 	return (
